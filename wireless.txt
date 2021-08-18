@@ -1,0 +1,36 @@
+
+[0. ] wirespy
+[1. ] Pyrit  
+[2. ] RTLSDR-Scanner 
+[3. ] WiFi-Pumpkin    
+[4. ] WifiBruteCrack    
+[5. ] Winpayloads      
+[6. ] airgeddon    
+[7. ] cowpatty    
+[8. ] crackle    
+[9. ] fern-wifi-cracker 
+[10.] fluxion    
+[11.] giskismet    
+[12.] kalibrate-rtl 
+[13.] kickthemout    
+[14.] killchain    
+[15.] killerbee    
+[16.] killshot    
+[17.] koadic    
+[18.] kwetza    
+[19.] mfcuk    
+[20.] mfoc    
+[21.] mfterm    
+[22.] multimon-ng 
+[23.] netattack2    
+[24.] netattack    
+[25.] pixiewps    
+[26.] wifi-hacker  
+[27.] WifiGod   
+[28.] wifiphisher   
+[29.] wifitap    
+[30.] wifite2      
+[31.] wifresti       
+--------------------------------
+[32.] Back                     |
+--------------------------------

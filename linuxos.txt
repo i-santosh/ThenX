@@ -1,0 +1,13 @@
+------------ All Are Desktop Versions----------------
+
+[0. ] Nethunter-In-Termux
+[1. ] Alpine
+[2. ] Ubuntu 20.04  
+[3. ] Debian        
+[4. ] Arch Linux
+[5. ] Manjaro
+[6. ] Fedora
+[7. ] Void
+----------------------
+[8. ] Back           |
+----------------------

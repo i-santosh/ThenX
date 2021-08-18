@@ -1,0 +1,104 @@
+
+[0. ] killcast
+[1. ] 4nonimizer     
+[2. ] ADB-Toolkit     
+[3. ] AndroBugs Framework  
+[4. ] Androspy        
+[5. ] AutoPixieWps     
+[6. ] Auxscan    
+[7. ] BAF     
+[8. ] BadMod     
+[9. ] BeeLogger     
+[10.] Black-Hydra     
+[11.] Blazy     
+[12.] CHAOS     
+[13.] CMSeeK     
+[14.] Clickjacking-Tester  
+[15.] Cookie-stealer     
+[16.] CrawlBox     
+[17.] CredSniper     
+[18.] CyberScan     
+[19.] DKMC     
+[20.] DSVW     
+[21.] DSXS     
+[22.] Dr0p1t-Framework    
+[23.] Dracnmap     
+[24.] EagleEye     
+[25.] EasY_HaCk     
+[26.]EggShell     
+[27.] Email-Spammer    
+[28.] Empire     
+[29.] FBUPv2.0    
+[30.] Gemail-Hack    
+[31.] Gloom-Framework    
+[32.] GoblinWordGenerator 
+[33.] HT-WPS-Breaker        
+[34.] HTools     
+[35.] Hatch     
+[36.] Hunner    
+[37.] KatanaFramework   
+[38.] LALIN    
+[39.] Mercury    
+[40.] Parat    
+[41.] PiDense    
+[42.] PwnSTAR    
+[43.] PyBozoCrack   
+[44.] Pybelt    
+[45.] QRLJacking    
+[46.] ReverseAPK    
+[47.] SMBrute    
+[48.] Sn1per    
+[49.] Stitch    
+[50.] Zerodoor    
+[51.] air-hammer    
+[52.] angryFuzzer    
+[53.] avet        
+[54.] bleachbit    
+[55.] brutespray   
+[56.] catphish    
+[57.] cpscan       
+[58.] eaphammer    
+[59.] elpscrk    
+[60.] eternal_scanner    
+[61.] evilginx    
+[62.] fbht       
+[63.] fbvid        
+[64.] fuxploider    
+[65.] gasmask    
+[66.] gcat         
+[67.] get            
+[68.] hacktronian    
+[69.] hakkuframework    
+[70.] jboss-autopwn    
+[71.] leviathan      
+[72.] lscript       
+[73.] masscan      
+[74.] nWatch       
+[75.] netdiscover   
+[76.] nodexp        
+[77.] noisy           
+[78.] onioff         
+[79.] peepdf         
+[80.] pupy          
+[81.] pybluez        
+[82.] pydictor        
+[83.] qark           
+[84.] rdpy            
+[85.] sAINT        
+[86.] secHub         
+[87.] shellstack      
+[88.] shimit        
+[89.] smap         
+[90.] subscraper      
+[91.] torghost        
+[92.] trojanizer        
+[93.] uidsploit         
+[94.] wafw00f           
+[95.] wfdroid-termux       
+[96.] wreckuests       
+[97.] zarp         
+[98.] zirikatu     
+[99.] zVirus-Gen           
+------------------------
+[100.] Back            |
+------------------------

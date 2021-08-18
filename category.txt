@@ -1,0 +1,24 @@
+[1. ] Information Gathering  |   
+[2. ] Vulnerability Scanner  |
+[3. ] Exploitation Tools     |
+[4. ] Wireless Testing       |
+[5. ] Forensics Tools        |
+[6. ] Web Hacking            |
+[7. ] Stress Testing         |
+[8. ] Sniffing & Spoofing    |
+[9. ] Password Attacks       |
+[10.] Maintaining Access     |
+[11.] IP-Tracking tools      |
+[12.] Programming Languages  |
+[13.] DDOS Attacks           |
+[14.] Termux Desktoo         |
+[15.] Linux OS               |
+[16.] Extra Tools.           |
+[17.] Bruteforce ++          |
+-----------------------------|
+[18.] UPDATE THEN X          |
+[19.] JOIN WHATSAPP          |
+[20.] Learn From Website     |
+-----------------------------|
+[0. ] Exit                   |
+------------------------------

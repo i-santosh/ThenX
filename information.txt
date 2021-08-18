@@ -1,0 +1,74 @@
+
+[0. ] LittleBrother
+[1. ] Sherlock
+[2. ] wpscan
+[3. ] trackout
+[4. ] theHarvester
+[5. ] thc-ipv6
+[6. ] sslyze
+[7. ] sslstrip
+[8. ] sslsplit
+[9. ] sslcaudit
+[10.] sqlscan
+[11.] sqlmate
+[12.] sqlmap
+[13.] social-engineer-toolkit
+[14.] smbmap
+[15.] recon-ng
+[16.] Automater
+[17.] CMSmap
+[18.] Crips
+[19.] D-TECT
+[20.] Devploit
+[21.] EvilURL
+[22.] EyeWitness
+[23.] IP-FY
+[24.] IP-Locator
+[25.] IP-Tracer
+[26.] IPGeoLocation
+[27.] InSpy
+[28.] Infoga
+[29.] OSIF
+[30.] Parsero
+[31.] RED_HAWK
+[32.] ReconDog
+[33.] SET social-engineer-toolkit
+[34.] Sublist3r
+[35.] WAScan
+[36.] XSStrike
+[37.] apt2
+[38.] arp-scan
+[39.] bing-ip2hosts
+[40.] braa
+[41.] cdpsnar
+[42.] dmitry          
+[43.] dnsenum       
+[44.] dnsmap          
+[45.] dnsrecon          
+[46.] doork            
+[47.] dotdotpwn           
+[48.] enum4linux       
+[49.] faraday        
+[50.] fierce        
+[51.] phisher       
+[52.] golismero       
+[53.] ipwn     
+[54.] intrace        
+[55.] masscan          
+[56.] nikto    
+[57.] osrframework      
+[58.] recon-ng      
+[59.] shodanwave      
+[60.] smbmap       
+[61.] social-engineer-toolkit      
+[62.] sqlmap     
+[63.] sqlmate              
+[64.] sqlscan sqlscan             
+[65.] sslcaudit          
+[66.] sslsplit         
+[67.] sslstrip           
+[68.] sslyze      
+[69.] wpscan         
+-------------------------------------------
+[70.] Back
+-------------------------------------------
