@@ -2,7 +2,7 @@
 ThenX is a simple python script that install github hacking tools easily . It is easy to use.This tool is made with python and this tool is library of hacking tools.
 
 ![alt text](https://github.com/devincrack/ThenX/blob/main/Screenshot_2021_0819_091636.png)
-
+![alt text](https://github.com/devincrack/ThenX/blob/main/Screenshot_2021_0819_092405.png)
 
 # Requirements
 1. Termux 
