@@ -16,9 +16,8 @@
 [16.] Extra Tools.           |
 [17.] Bruteforce ++          |
 -----------------------------|
-[18.] UPDATE THEN X          |
-[19.] JOIN WHATSAPP          |
-[20.] Learn From Website     |
+[18.] JOIN WHATSAPP          |
+[19.] Learn From Website     |
 -----------------------------|
 [0. ] Exit                   |
 ------------------------------
