@@ -361,7 +361,6 @@ while (sel_catg!=0):
             print("please wait!, ThenX is updating...")
             time.sleep(2)
             os.system("git clone https://github.com/devincrack/ThenX.git")
-            os.system("cd ThenX && Python ThenX.py")
             time.sleep(3)
             print("Tool update Successfully!")
                               
