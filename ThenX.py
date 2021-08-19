@@ -355,15 +355,16 @@ while (sel_catg!=0):
                         elif choice17>=23:
                             invalid()
         elif (sel_catg==18):
-            print("Finding Updates....!!!\n")
+            print("\nFinding Updates....!!!\n")
             time.sleep(3)
             os.system("cd $HOME && rm -rf ThenX")
-            print("please wait!, ThenX is updating...\n")
+            print("\nplease wait!, ThenX is updating...\n")
             time.sleep(2)
             os.system("cd $HOME && git clone https://github.com/devincrack/ThenX.git")
-            time.sleep(3)
-            print("Tool update Successfully!")
-                              
+            time.sleep(2)
+            print("\nTool update Successfully!")
+            time.sleep(2)
+            os.system("cd $HOME && cd ThenX && python ThenX.py")                  
         elif (sel_catg==19):
             print("Join Our Whatsapp Group")
             time.sleep(2)
