@@ -353,29 +353,18 @@ while (sel_catg!=0):
                             os.system(f'git clone https://github.com/{bruteforce[choice17]}.git')
                             complete()
                         elif choice17>=23:
-                            invalid()
+                            invalid()              
         elif (sel_catg==18):
-            print("\nFinding Updates....!!!\n")
-            time.sleep(3)
-            os.system("cd $HOME && rm -rf ThenX")
-            print("\nplease wait!, ThenX is updating...\n")
-            time.sleep(2)
-            os.system("cd $HOME && git clone https://github.com/devincrack/ThenX.git")
-            time.sleep(2)
-            print("\nTool update Successfully!")
-            time.sleep(2)
-            os.system("cd $HOME && cd ThenX && python ThenX.py")                  
-        elif (sel_catg==19):
             print("Join Our Whatsapp Group")
             time.sleep(2)
             os.system("termux-open-url https://chat.whatsapp.com/JMKsoypurTOIwp5zPV7Kc8")                           
-        elif (sel_catg==20):
+        elif (sel_catg==19):
             print("Learn hacking from termux-hacking-pro")
             time.sleep(2)
             os.system("termux-open-url https://termux-hacking-pro.blogspot.com")
                           
                             
-        elif (sel_catg>=21):
+        elif (sel_catg>=20):
             invalid()
             
             
