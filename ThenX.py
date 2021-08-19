@@ -122,12 +122,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(info)
                     choice1 = int(input("Entre tool: "))
+                    if choice1>=71:
+                        invalid()
                     for a in range(70):
                         if choice1 == a:
                             os.system(f'git clone https://github.com/{information[choice1]}.git')
                             complete()
-                        elif choice1>=71:
-                            invalid()
         elif (sel_catg==2): # select 2
             with open("vulnerability.txt") as f:
                 vulner = f.read()
@@ -136,12 +136,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(vulner)
                     choice2 = int(input("Entre tool: "))
+                    if choice2>=28:
+                        invalid()
                     for a in range(27):
                         if choice2 == a:
                             os.system(f'git clone https://github.com/{vulnerability[choice2]}.git')
                             complete()
-                        elif choice2>=28:
-                            invalid()
         elif (sel_catg==3): # select 3
             with open("exploitations.txt") as f:
                 exploit = f.read()
@@ -150,12 +150,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(exploit)
                     choice3 = int(input("Entre tool: "))
+                    if choice3>=31:
+                        invalid()
                     for a in range(30):
                         if choice3 == a:
                             os.system(f'git clone https://github.com/{exploit[choice3]}.git')
                             complete()
-                        elif choice3>=31:
-                            invalid()
         elif (sel_catg==4): # select 4
             with open("wireless.txt") as f:
                 wireless = f.read()
@@ -164,12 +164,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(wireless)
                     choice4 = int(input("Entre tool: "))
+                    if choice4>=33:
+                        invalid()
                     for a in range(32):
                         if choice4 == a:
                             os.system(f'git clone https://github.com/{wireless[choice4]}.git')
                             complete()
-                        elif choice4>=33:
-                            invalid()
         elif (sel_catg==5): # select 5
             with open("forensics.txt") as f:
                 forensics = f.read()
@@ -178,12 +178,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(forensics)
                     choice5 = int(input("Entre tool: "))
+                    if choice5>=10:
+                        invalid()
                     for a in range(9):
                         if choice5 == a:
                             os.system(f'git clone https://github.com/{forensics[choice5]}.git')
                             complete()
-                        if choice5>=10:
-                            invalid()
         elif (sel_catg==6): # select 6
             with open("webhacking.txt") as f:
                 web = f.read()
@@ -192,12 +192,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(web)
                     choice6 = int(input("Entre tool: "))
+                    if choice6>=35:
+                        invalid()
                     for a in range(34):
                         if choice6 == a:
                             os.system(f'git clone https://github.com/{webhacking[choice6]}.git')
                             complete()
-                        elif choice6>=35:
-                            invalid()
         elif (sel_catg==7): # select 7
             with open("stresstesting.txt") as f:
                 stress = f.read()
@@ -206,12 +206,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(stress)
                     choice7 = int(input("Entre tool: "))
+                    if choice7>=2:
+                        invalid()
                     for a in range(1):
                         if choice7 == a:
                             os.system(f'git clone https://github.com/{stresstesting[choice7]}.git')
                             complete()
-                        elif choice7>=2:
-                            invalid()
         elif (sel_catg==8): # select 8
             with open("sniffspoof.txt") as f:
                 sniff = f.read()
@@ -220,12 +220,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(sniff)
                     choice8 = int(input("Entre tool: "))
+                    if choice8>=37:
+                        invalid()
                     for a in range(36):
                         if choice8 == a:
                             os.system(f'git clone https://github.com/{sniffspoof[choice8]}.git')
                             complete()
-                        elif choice8>=37:
-                            invalid()
         elif (sel_catg==9): # select 9
             with open("passwordattack.txt") as f:
                 passwd = f.read()
@@ -234,12 +234,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(passwd)
                     choice9 = int(input("Entre tool: "))
+                    if choice9>=21:
+                        invalid()
                     for a in range(20):
                         if choice9 == a:
                             os.system(f'git clone https://github.com/{password_attack[choice9]}.git')
                             complete()
-                        elif choice9>=21:
-                            invalid()
         elif (sel_catg==10): # select 10
             with open("maintaining.txt") as f:
                 maintain = f.read()
@@ -248,12 +248,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(maintain)
                     choice10 = int(input("Entre tool: "))
+                    if choice10>=8:
+                        invalid()
                     for a in range(7):
                         if choice10 == a:
                             os.system(f'git clone https://github.com/{maintaining[choice10]}.git')
                             complete()
-                        elif choice10>=8:
-                            invalid()
         elif (sel_catg==11): # select 11
             with open("iptracking.txt") as f:
                 iptrack = f.read()
@@ -262,12 +262,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(iptrack)
                     choice11 = int(input("Entre tool: "))
+                    if choice11>=9:
+                        invalid()
                     for a in range(8):
                         if choice11 == a:
                             os.system(f'git clone https://github.com/{iptracking[choice11]}.git')
                             complete()
-                        elif choice11>=9:
-                            invalid()
         elif (sel_catg==12):# select 12
             with open("programming.txt") as f:
                 program = f.read()
@@ -276,12 +276,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(program)
                     choice12 = int(input("Entre tool: "))
+                    if choice12>=12:
+                        invalid()
                     for a in range(11):
                         if choice12 == a:
                             os.system(f'pkg install {programming[choice12]}')
                             complete()
-                        elif choice12>=12:
-                            invalid()
         elif (sel_catg==13):# select 13
             with open("ddos.txt") as f:
                 ddos = f.read()
@@ -290,12 +290,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(ddos)
                     choice13 = int(input("Entre tool: "))
+                    if choice13>=7:
+                        invalid()
                     for a in range(6):
                         if choice13 == a:
                             os.system(f'git clone https://github.com/{ddos[choice13]}.git')
                             complete()
-                        elif choice13>=7:
-                            invalid()
         elif (sel_catg==14):# select 14
             with open("termuxos.txt") as f:
                 termuxos = f.read()
@@ -304,12 +304,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(termuxos)
                     choice14 = int(input("Entre tool: "))
+                    if choice14>=2:
+                        invalid()
                     for a in range(1):
                         if choice14 == a:
                             os.system(f'git clone https://github.com/{termux_desktop[choice14]}.git')
                             complete()
-                        elif choice14>=2:
-                            invalid()
         elif (sel_catg==15):# select 15
             with open("linuxos.txt") as f:
                 linux = f.read()
@@ -318,14 +318,14 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(linux)
                     choice15 = int(input("Entre tool: "))
-                    for a in range(8):
-                        if choice15 == 1:
+                    if choice15>=9:
+                        invalid()
+                    elif choice15 == 0:
                             os.system(f"git clone https://github.com/Hax4us/Nethunter-In-Termux.git")
-                        elif choice15 == a:
+                    for a in range(1,8):  
+                        if choice15 == a:
                             os.system(linux_os[choice15])
                             complete()
-                        elif choice15>=9:
-                            invalid()
         elif (sel_catg==16):# select 16
             with open("extra.txt") as f:
                 extra = f.read()
@@ -334,12 +334,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(extra)
                     choice16 = int(input("Entre tool: "))
+                    if choice16>=101:
+                        invalid()
                     for a in range(100):
                         if choice16 == a:
                             os.system(f'git clone https://github.com/{extra[choice16]}.git')
                             complete()
-                        elif choice16>=101:
-                            invalid()
         elif (sel_catg==17):
             with open("Bruteforce.txt") as f:
                 brute = f.read()
@@ -348,12 +348,12 @@ while (sel_catg!=0):
                     print("---------------------------------------")
                     print(brute)
                     choice17 = int(input("Entre tool: "))
+                    if choice17>=23:
+                        invalid()
                     for a in range(22):
                         if choice17 == a:
                             os.system(f'git clone https://github.com/{bruteforce[choice17]}.git')
-                            complete()
-                        elif choice17>=23:
-                            invalid()              
+                            complete()              
         elif (sel_catg==18):
             print("Join Our Whatsapp Group")
             time.sleep(2)
