@@ -355,12 +355,12 @@ while (sel_catg!=0):
                         elif choice17>=23:
                             invalid()
         elif (sel_catg==18):
-            print("Finding Updates....!!!")
+            print("Finding Updates....!!!\n")
             time.sleep(3)
             os.system("cd $HOME && rm -rf ThenX")
-            print("please wait!, ThenX is updating...")
+            print("please wait!, ThenX is updating...\n")
             time.sleep(2)
-            os.system("git clone https://github.com/devincrack/ThenX.git")
+            os.system("cd $HOME && git clone https://github.com/devincrack/ThenX.git")
             time.sleep(3)
             print("Tool update Successfully!")
                               
