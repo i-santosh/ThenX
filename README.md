@@ -12,26 +12,26 @@ ThenX is a simple python script that install github hacking tools easily . It is
 
 Open the terminal and type following commands.
 
-    apt update
+  * `apt update`
 
-    apt install git -y
+  * `apt install git -y`
  
-    apt install python -y
+  * `apt install python -y`
 
-    git clone https://github.com/devincrack/ThenX.git
+  * `git clone https://github.com/devincrack/ThenX.git`
 
 
 
-# How to use ThenX
+# How to use ThenX ?
 
-ThenX is very simple and easy to use.
+* ThenX is very simple and easy to use.
 
-    cd ThenX
+ *  `cd ThenX`
 
-    python ThenX.py
+ * `python ThenX.py`
 
 Now select your choices by entre the serial number of tools.
 
-# Warning
+# Warning :
 
-We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+* We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
