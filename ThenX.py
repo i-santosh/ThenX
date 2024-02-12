@@ -1,10 +1,9 @@
 
 # Author : Santosh Kumar
-# Github : devincrack
-# Date :   18 August , 2021
+# Github : i-santosh
+# Last Update :   12 Feb, 2024
 # Tool :   THEN X        
-# Description : A simple Python script to install Github hacking tools. It is very easy to use and easily can run.
-# website : https://termux-hacking-pro.blogspot.com
+# Description : A simple Python script to install Github hacking tools. It is very easy to use.
 
 
 
@@ -25,9 +24,7 @@ def banner():
                            
 
                   \033[01;31mAuthor : SANTOSH KUMAR
-                  \033[01;32mGITHUB : devincrack
-                  \033[01;36mWebsite: https://termux-hacking-pro.blogspot.com
-
+                  \033[01;32mGITHUB : i-santosh
 
 ''')        
                 
@@ -83,18 +80,12 @@ def complete():
     
     
 def clear():
-    return os.system("clear") 
+    os.system("clear") 
     
 
 def invalid():
     print("____Invalid Choice!____\n")
-    return time.sleep(2)
-    
-#i = 0
-#while i<len(tools):
-#    complt = (i,tools[i])
-#    print(complt)
-#    i+=1
+    time.sleep(2)
 
 # Main Functions Starts here
              
