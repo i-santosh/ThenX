@@ -18,7 +18,7 @@ Open the terminal and type following commands.
  
   * `apt install python -y`
 
-  * `git clone https://github.com/devincrack/ThenX.git`
+  * `git clone https://github.com/i-santosh/ThenX.git`
 
 
 
