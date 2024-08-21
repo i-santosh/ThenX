@@ -341,5 +341,5 @@ while (sel_catg!=0):
                             os.system(f'git clone https://github.com/{bruteforce[choice17]}.git')
                             complete()              
                             
-        elif (sel_catg>=18):
+        elif (sel_catg>17):
             invalid()
