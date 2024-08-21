@@ -1,7 +1,7 @@
 
 # Author : Santosh Kumar
 # Github : i-santosh
-# Last Update :   12 Feb, 2024
+# Last Update :   21 Aug, 2024
 # Tool :   THEN X        
 # Description : A simple Python script to install Github hacking tools. It is very easy to use.
 
@@ -9,7 +9,6 @@
 
 import os 
 import time
-
 
     
 def banner():
@@ -29,8 +28,6 @@ def banner():
 ''')        
                 
 banner()
-
-
 
 
 information = [
@@ -60,7 +57,6 @@ maintaining = ["trustedsec/ridenum","deadbits/Intersect-2.5","PowerShellMafia/Po
 iptracking = ["abaykan/trackout","T4P4N/IP-FY","zanyarjamal/IP-Locator","Rajkumrdusad/IP-Tracer","maldevel/IPGeoLocation","leapsecurity/InSpy","m4ll0/Infoga","boxug/trape"]
 
 programming = ["c++","clang","c","golang","nodejs","perl","php","python","ruby","lua","nasm"]
-
 
 ddos = ["darkwarrior3/hulk","D35m0nd142/LFISuite","BaSai-Ddos/LITEDDOS","bangnaga1/Litespam","Gameye98/Lazymux","cyweb/hammer"]
 
@@ -344,21 +340,6 @@ while (sel_catg!=0):
                         if choice17 == a:
                             os.system(f'git clone https://github.com/{bruteforce[choice17]}.git')
                             complete()              
-        elif (sel_catg==18):
-            print("Join Our Whatsapp Group")
-            time.sleep(2)
-            os.system("termux-open-url https://chat.whatsapp.com/JMKsoypurTOIwp5zPV7Kc8")                           
-        elif (sel_catg==19):
-            print("Learn hacking from termux-hacking-pro")
-            time.sleep(2)
-            os.system("termux-open-url https://termux-hacking-pro.blogspot.com")
-                          
                             
-        elif (sel_catg>=20):
+        elif (sel_catg>=18):
             invalid()
-            
-            
-            
-            
-            
-            
